@@ -1,0 +1,1 @@
+# Essa api é um exemplo simplês de API com integração de Mysql para o projeto da faculdade de ADS
